@@ -346,8 +346,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Size: {x: 10, y: 10}
-  zoomX: 1
-  zoomY: 1
+  _fillPercent: 0.5
+  _zoom: 1.1
   WhiteCell: {fileID: 7566819752014531505, guid: 20da4ed5553a4ea49b56f6ab4efb45ce, type: 3}
   BlackCell: {fileID: 672008564560859204, guid: 3d99e15a0e4301c43854aef0c05bf517, type: 3}
   GridTransform: {fileID: 360332755}
